@@ -42,7 +42,7 @@ Testes públicos: https://arielemacedo.github.io/fila-facil/tests/index.html
 
 Issue e evidências: https://github.com/arielemacedo/fila-facil/issues/1
 
-Publicação configurada em main, pasta raiz. Conferência pública em andamento. Revisão humana e revisão cruzada continuam pendentes.
+Publicação concluída em main, pasta raiz. Aplicação e suíte públicas conferidas: 24 aprovados, 0 falhas, 24 testes. Roteiro da interface pública também executado. Revisão humana e revisão cruzada continuam pendentes; ver evidencias/2026-11-23-publicacao.md.
 
 ## Decisões
 
@@ -55,4 +55,3 @@ Uma fila por aba, estado apenas em memória. Recarregar apaga a sessão. Não h�
 ## Continuidade
 
 Uma pessoa de outra dupla deve executar a suíte pública e o roteiro da interface e registrar sua revisão na issue, com nome, commit, URLs, horário e resultado observado. A issue permanece aberta para essa etapa. A atividade no Classroom permanece sem enviar.
-
