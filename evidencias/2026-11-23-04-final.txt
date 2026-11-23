@@ -1,0 +1,25 @@
+PASSOU | RF-01 · estado inicial completo
+PASSOU | RF-07 · estados iniciais independentes
+PASSOU | RF-06 · ausência de senha
+PASSOU | RF-06 · senha com três dígitos
+PASSOU | RF-06 · senha com dois algarismos
+PASSOU | RF-06 · não truncar após 999
+PASSOU | RF-02 · primeira emissão retorna 1
+PASSOU | RF-02 · emissão atualiza a fila
+PASSOU | RF-02 · emissão avança a numeração
+PASSOU | RF-02 · emitir preserva atendimento e contador
+PASSOU | RF-02 · numeração continua após chamada
+PASSOU | RF-03 · chamada retorna a primeira senha
+PASSOU | RF-03 · remove somente a primeira da espera
+PASSOU | RF-03 · atual acompanha a última chamada
+PASSOU | RF-03 · conta somente chamadas efetivas
+PASSOU | RF-03 · chamar não avança proximaSenha
+PASSOU | RF-04 · chamar fila inicialmente vazia retorna null
+PASSOU | RF-04 · fila vazia preserva todos os campos
+PASSOU | RF-03 · FIFO com emissão entre chamadas
+PASSOU | RF-05 · reinício restaura o mesmo objeto
+PASSOU | RF-05 · primeira emissão após reinício
+PASSOU | RF-05 · reiniciar duas vezes é válido
+PASSOU | RF-07 · operar uma fila não modifica outra
+PASSOU | RF-02/03 · mil emissões e chamadas sem duplicação
+24 aprovados · 0 falhas · 24 testes
